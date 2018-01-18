@@ -2,6 +2,10 @@
 
 Build the promiselibrary through es6
 
+**The document**
+
+(Promise A+)[https://promisesaplus.com/]
+
 ### Usage
 
 **startup**
@@ -9,6 +13,7 @@ Build the promiselibrary through es6
 ```js
 yarn install
 ```
+
 **build**
 
 ```js
